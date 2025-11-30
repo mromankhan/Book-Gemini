@@ -13,7 +13,7 @@
 
 ## Phase 2: Foundational (Blocking Prerequisites)
 
-- [ ] T004 [P] Set up Qdrant Cloud Free Tier and get credentials.
+- [X] T004 [P] Set up Qdrant Cloud Free Tier and get credentials.
 - [X] T005 [P] Implement text embeddings pipeline in `backend/rag/pipeline.py`.
 - [X] T006 [P] Ingest initial book content into Qdrant.
 
