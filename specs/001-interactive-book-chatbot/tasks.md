@@ -5,17 +5,17 @@
 
 ## Phase 1: Setup (Shared Infrastructure)
 
-- [ ] T001 [P] Create `frontend` and `backend` directories.
-- [ ] T002 [P] Initialize `frontend` with Docusaurus.
-- [ ] T003 [P] Initialize `backend` with FastAPI.
+- [X] T001 [P] Create `frontend` and `backend` directories.
+- [X] T002 [P] Initialize `frontend` with Docusaurus.
+- [X] T003 [P] Initialize `backend` with FastAPI.
 
 ---
 
 ## Phase 2: Foundational (Blocking Prerequisites)
 
 - [ ] T004 [P] Set up Qdrant Cloud Free Tier and get credentials.
-- [ ] T005 [P] Implement text embeddings pipeline in `backend/rag/pipeline.py`.
-- [ ] T006 [P] Ingest initial book content into Qdrant.
+- [X] T005 [P] Implement text embeddings pipeline in `backend/rag/pipeline.py`.
+- [X] T006 [P] Ingest initial book content into Qdrant.
 
 ---
 
@@ -27,8 +27,8 @@
 
 ### Implementation for User Story 1
 
-- [ ] T007 [P] [US1] Create initial book chapters (dummy content) in `frontend/docs/`.
-- [ ] T008 [P] [US1] Configure `docusaurus.config.js` and `sidebars.js` in `frontend/`.
+- [X] T007 [P] [US1] Create initial book chapters (dummy content) in `frontend/docs/`.
+- [X] T008 [P] [US1] Configure `docusaurus.config.js` and `sidebars.js` in `frontend/`.
 - [ ] T009 [US1] Deploy the initial version of the book to GitHub Pages.
 
 ---
