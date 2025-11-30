@@ -31,7 +31,11 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+- **Accuracy First**: All content and chatbot answers must be correct and verifiable.
+- **Clarity**: The book and chatbot should be simple and easy for users to understand.
+- **Interactivity**: Chatbot must be intelligent and context-aware to enhance user learning.
+- **Modularity**: Design so that components (book, chatbot, API) can be updated independently.
+- **Reproducibility**: The book and chatbot setup should be repeatable and deployable by anyone.
 
 ## Project Structure
 
