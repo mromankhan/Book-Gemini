@@ -208,3 +208,10 @@ Wait for consent; never auto-create ADRs. Group related decisions (stacks, authe
 
 ## Code Standards
 See `.specify/memory/constitution.md` for code quality, testing, performance, security, and architecture principles.
+
+## Active Technologies
+- Python 3.11, Node.js 20.x + FastAPI, Docusaurus, OpenAI Agents/ChatKit SDKs, Qdrant Client (001-interactive-book-chatbot)
+- Qdrant Cloud Free Tier (001-interactive-book-chatbot)
+
+## Recent Changes
+- 001-interactive-book-chatbot: Added Python 3.11, Node.js 20.x + FastAPI, Docusaurus, OpenAI Agents/ChatKit SDKs, Qdrant Client
